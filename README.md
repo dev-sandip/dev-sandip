@@ -1,5 +1,4 @@
-## Hey 👋, I'm Sandip Sapkota!  
-  
+## Hey 👋, I'm Sandip Sapkota!
 
 <a href="https://github.com/dev-sandip" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,48 +9,40 @@
 <a href="https://linkedin.com/in/sandip-sapkota" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 
-
-### Glad to see you here!  
+### Glad to see you here!
 
 As a Bachelor's student in Computer Engineering and a budding full-stack developer with 8 months of experience, I have a strong passion for developing client-facing apps and websites, coupled with cutting-edge backend support.
 
-My primary focus is on building robust backends that handle the heavy lifting for apps and websites. I enjoy designing systems that are lightweight yet powerful, distributed yet synchronized, and aesthetically pleasing yet highly effective. I also frequently blog about the intricate world behind the screen, discussing topics such as databases, security, servers, and optimization.  
-  
+My primary focus is on building robust backends that handle the heavy lifting for apps and websites. I enjoy designing systems that are lightweight yet powerful, distributed yet synchronized, and aesthetically pleasing yet highly effective. I also frequently blog about the intricate world behind the screen, discussing topics such as databases, security, servers, and optimization.
 
-<br/>  
+<br/>
 
+## Rapidfire
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ACES Webiste](https://github.com/aces-erc/aces-web)  
-  
+- 🔭 I’m currently working on [ACES Webiste](https://github.com/aces-erc/aces-web)
 
-- 🌱 I’m currently learning C++ and OOP  
-  
+- 🌱 I’m currently learning C++ and OOP
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+- ⚡ Fun fact: I keep night shift swithed on at all times
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hrZnluNmY0Mmp3cWpkNm1qdmlpdXlhNGNvYWV2MTVsN2g1MTl5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Languages and Tools
 
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -73,12 +64,12 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dev-sandip&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -87,24 +78,25 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sandip&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+### What Am I Listening ?
 
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rhlt76q4filukwv4yvzkca2de4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
 
-### What  Am I Listening ?  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rhlt76q4filukwv4yvzkca2de4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)  
+<br/>
 
-<br/>  
+![](./profile-3d-contrib/profile-green-animate.svg)
+<br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dev-sandip&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=dev-sandip&&style=flat-square)
 
-<br/>  
-
+<br/>
 
 <br />
 
-----
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

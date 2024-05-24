@@ -88,7 +88,7 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 <br/>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dev-sandip&&style=flat-square)

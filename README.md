@@ -90,14 +90,9 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br/>
-![snake gif](https://github.com/dev-sandip/dev-sandip/blob/output/github-contribution-grid-snake.gif)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dev-sandip&&style=flat-square)
 
 <br/>
 
 <br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

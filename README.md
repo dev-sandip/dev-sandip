@@ -94,5 +94,4 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 ![Profile views counter](https://komarev.com/ghpvc/?username=dev-sandip&&style=flat-square)
 
 <br/>
-
 <br />

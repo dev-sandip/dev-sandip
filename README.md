@@ -23,7 +23,7 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ACES Webiste](https://github.com/aces-erc/aces-web)
+- 🔭 I’m currently working on [ACES Webiste](https://github.com/aceserc/aces-web/)
 
 - 🌱 I’m currently learning C++ and OOP
 

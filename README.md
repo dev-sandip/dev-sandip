@@ -23,9 +23,9 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ACES Webiste](https://github.com/aceserc/aces-web/)
+- 🔭 I’m currently working on [Nothing](https://www.sapkotasandip.com.np/)
 
-- 🌱 I’m currently learning C++ and OOP
+- 🌱 I’m currently learning C++(OOP) and GoLang
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
@@ -63,7 +63,8 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
+ <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>
 
 <br/>
@@ -82,11 +83,6 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 <br/>
 
-### What Am I Listening ?
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rhlt76q4filukwv4yvzkca2de4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
-
-<br/>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br/>

@@ -25,7 +25,7 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 - 🔭 I’m currently working on [Nothing](https://www.sapkotasandip.com.np/)
 
-- 🌱 I’m currently learning C++(OOP) and GoLang
+- 🌱 I’m currently learning JAVA.
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 

@@ -23,7 +23,7 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Nothing](https://www.sapkotasandip.com.np/)
+- 🔭 I’m currently working on [Java](https://docs.oracle.com/en/java/)
 
 - 🌱 I’m currently learning JAVA.
 

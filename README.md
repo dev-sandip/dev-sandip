@@ -25,7 +25,7 @@ My primary focus is on building robust backends that handle the heavy lifting fo
 
 - 🔭 I’m currently working on [Nothing](https://www.thesandip.dev/)
 
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning Go Lang.
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
